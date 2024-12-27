@@ -79,13 +79,3 @@ tnsqli.Remove_Volunteer_By_Id(123)
 
 ## Legal Disclaimer
 This project is intended for **educational purposes only**. The use of this code against any system without explicit permission is strictly prohibited. The author assumes no liability for misuse.
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue to discuss potential improvements.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Inspired by real-world security challenges in SOAP APIs.
-- Thanks to the cybersecurity community for their continuous effort in making systems more secure.
